@@ -1,5 +1,0 @@
-{
-  "labels": ["renovate"],
-  "rangeStrategy": "pin",
-  "gradle": true
-}
